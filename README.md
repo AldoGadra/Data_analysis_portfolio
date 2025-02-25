@@ -7,7 +7,7 @@ In my spare time, I enjoy doing data analysis and research on geeky pop culture 
 
 In this portfolio, I have included projects showcasing my analytical capability along with corresponding technical skills for business and general data analytics topics.
 
-# Portofolio Project
+# Portfolio Project
 
 ### Kickstarter Success Rate Analysis
 
