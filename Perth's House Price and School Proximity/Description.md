@@ -1,15 +1,14 @@
 # Perth GWR House price and School Proximity
-Article: https://medium.com/p/f5dc575005f9
+Article: [https://medium.com/p/f5dc575005f9](https://medium.com/@aldgadra/does-school-distance-influence-house-price-b9c0c0cb06e4)
 
-Description: Kickstarter is a widely popular crowdfunding platform to help people start their own business or projects. But their success rates tends to fluctuates time to time, and may waste their vast potential. This project aims to explore variables that correlates and may caused the mentioned fluctuation. This projects includes several data analysis and testing methods that includes EDA, Seasonal Trend Decomposition (STL), and changepoint analysis.
+Description: Homeowners often bought houses as a means to invest more on their future life, including on their children education. But how much are homeowners are willing to pay to live near a good school? This projects aims to test wether if high quality schools correlate with increased house price. I tested this OLS and GWR to capture the relationship spatial non-stationary effect. 
 
-Original Dataset: https://www.kaggle.com/datasets/ulrikthygepedersen/kickstarter-projects
+Original Dataset: [https://www.kaggle.com/datasets/ulrikthygepedersen/kickstarter-projects](https://www.kaggle.com/datasets/syuzai/perth-house-prices/data)
 
-Skills: Data cleaning, data wrangling, data visualization, STL, and changepoint analysis.
+Skills: Data cleaning, data wrangling, data visualization, regression subset method,  OLS, and GWR.
 
-Tools:
+Tools: R.
 
-Python: Pandas, Numpy, Seaborn, and Ruptures.
 Findings:
 
-There is a identifiable decline period in Kickstarter's success rate fluctuation. The mentioned decline period correlates to the rise of "expensive" campaigns that have excessive goal. The "expensive" campaign rise is link to the rise of technology campaign that is known to have excessive goal to cover its developing cost.
+High quality schools have a significant positive relationship with nearby house price. This relationship have spatial non-stationary. But the aforementioned effect can still be explained under global assumption using OLS. 
