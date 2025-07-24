@@ -86,9 +86,10 @@ Most of the wellness activities follow the tourism seasonal pattern, which may b
 
 ### Used Car Prediction
 
-**Code**:
+**Code**: https://github.com/AldoGadra/Data_analysis_portfolio/blob/56dd6db65d1c424cfedb352e8ae0cfa73a44f217/Used_car_prediction/R_Indonesia_used_car_predicition.pdf
 
-**Article**:
+**Article**: https://github.com/AldoGadra/Data_analysis_portfolio/blob/56dd6db65d1c424cfedb352e8ae0cfa73a44f217/Used_car_prediction/What%20do%20Indonesian%20look%20for%20in%20a%20used%20car.pdf
+
 
 **Description**: 
 Indonesia used car market have been growing fast in the last few years. In 2025, used car sold twice as much as new car. This new market shift is caused by 
