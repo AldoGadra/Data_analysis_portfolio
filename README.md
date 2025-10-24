@@ -9,7 +9,7 @@ In this portfolio, I have included projects showcasing my analytical capability 
 
 # Portfolio Project
 
-# Bali Sport's Seasonal Trend
+### Bali Sport's Seasonal Trend
 
 **Description**: 
 Bali is the top tourism destination in Indonesia. Bali's Ngurah Rai International Airports accommodate 38.7% of Indonesia's international visitor arrivals in 2019 and has risen to 45.4% in 2024. The foreign visitors, combined with continuing tourism development, have introduce new lifestyle changes in Bali regarding diets, wellness, culture, and fitness. 
