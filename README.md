@@ -76,7 +76,7 @@ EDA, Seasonal Trend Decomposition (STL), and changepoint analysis.
 
 **Original Dataset**: https://www.kaggle.com/datasets/ulrikthygepedersen/kickstarter-projects
 
-**Skills**: Data cleaning, data wrangling, data visualization,  STL, and changepoint analysis. 
+**Skills**: Data cleaning, data wrangling, data visualization, STL, and changepoint analysis. 
 
 **Tools**: 
 - Python: Pandas, Numpy, Seaborn, and Ruptures. 
