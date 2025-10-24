@@ -1,4 +1,4 @@
-# Kickstarter Success Rate Analysis
+# Bali Sport's Seasonal Trend
 
 **Description**: 
 Bali is the top tourism destination in Indonesia. Bali's Ngurah Rai International Airports accommodate 38.7% of Indonesia's international visitor arrivals in 2019 and has risen to 45.4% in 2024. The foreign visitors, combined with continuing tourism development, have introduce new lifestyle changes in Bali regarding diets, wellness, culture, and fitness. 
@@ -9,7 +9,7 @@ This brings up an interesting question: "How is the development of fitness activ
 
 **Data Source**: Google Trends
 
-**Skills**: Data cleaning, data wrangling, data visualization, and STL.
+**Skills**: Data cleaning, data wrangling, data visualization, and STL (Seasonal Trend Decomposition and LOESS).
 
 **Tools**: 
 
